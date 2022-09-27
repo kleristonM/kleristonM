@@ -7,7 +7,7 @@ Cursando Desenvolvimento Full Stack
 Sou formado em Design de Interiores e estudante de Dev Full Stack. Estou Buscando uma Transição de carreira e novos conhecimentos no universo da programação.
 <img src="https://user-images.githubusercontent.com/112489366/192615161-b2b795f2-57e2-47a1-b0c6-17113c06154f.gif" width="250px" align="right">
 
-* 🌍  I'm based in Fortaleza/CE - Brasil
+* 🌍  I'm based in Fortaleza/CE - Brasil
 * ✉️  You can contact me at [kleriston13@gmail.com](mailto:kleriston13@gmail.com)
 * 🧠  I'm learning HTML5 | CSS3 | Javascript | React | Node.js | Express.js
 
@@ -29,3 +29,11 @@ Sou formado em Design de Interiores e estudante de Dev Full Stack. Estou Buscand
 <p align="left"> <a href="https://discord.com/users/kleristonm#7552" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kleristonM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kleriston-martins-20954a223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/KleristonM)
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kleristonM"><img src="https://github-readme-stats.vercel.app/api?username=kleristonM&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="kleristonM's GitHub stats" /></a>
+
+<a href="https://github.com/kleristonM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleristonM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
