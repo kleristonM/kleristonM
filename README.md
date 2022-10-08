@@ -2,10 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 Cursando Desenvolvimento Full Stack
------------------------------------
-
-Sou formado em Design de Interiores e estudante de Dev Full Stack. Estou Buscando uma Transição de carreira e novos conhecimentos no universo da programação.
-<img src="https://user-images.githubusercontent.com/112489366/192615161-b2b795f2-57e2-47a1-b0c6-17113c06154f.gif" width="250px" align="right">
+--------------------------------------------
+<div>
+<p align="right"><img src="https://user-images.githubusercontent.com/112489366/192615161-b2b795f2-57e2-47a1-b0c6-17113c06154f.gif" width="250px" align="right"></p>
+<p align="left">Sou formado em Design de Interiores e estudante de Dev Full Stack. Estou Buscando uma Transição de carreira e novos conhecimentos no universo da programação.</p>
+</div>
 
 * 🌍  I'm based in Fortaleza/CE - Brasil
 * ✉️  You can contact me at [kleriston13@gmail.com](mailto:kleriston13@gmail.com)
@@ -26,9 +27,7 @@ Sou formado em Design de Interiores e estudante de Dev Full Stack. Estou Buscand
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/kleristonm#7552" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kleristonM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kleriston-martins-20954a223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/KleristonM)
+<p align="left"> <a href="https://discord.com/users/kleristonm#7552" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kleristonM" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kleriston-martins-20954a223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.freecodecamp.org/KleristonM" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" width="125" height="32" /></a></p>
 
 ### Badges
 
