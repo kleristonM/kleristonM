@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cursando Desenvolvimento Full Stack
 --------------------------------------------
 <div>
-<p align="right"><img src="https://user-images.githubusercontent.com/112489366/192615161-b2b795f2-57e2-47a1-b0c6-17113c06154f.gif" width="250px" align="right"></p>
-<p align="left">Sou formado em Design de Interiores e estudante de Dev Full Stack. Estou Buscando uma Transição de carreira e novos conhecimentos no universo da programação.</p>
+<br><p align=""><img src="https://user-images.githubusercontent.com/112489366/199978480-78c4f52b-fa53-4eea-8665-fca40352458d.gif" width="350px" align="right"></p></br>
+<br><p align="left">Sou formado em Design de Interiores e estudante de Dev Full Stack. Estou Buscando uma Transição de carreira e novos conhecimentos no universo da programação.</p></br>
 </div>
+
 
 * 🌍  I'm based in Fortaleza/CE - Brasil
 * ✉️  You can contact me at [kleriston13@gmail.com](mailto:kleriston13@gmail.com)
